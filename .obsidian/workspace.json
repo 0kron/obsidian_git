@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prueba y Posible Índice.md",
-                "mode": "preview",
+                "file": "Ailil.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prueba y Posible Índice.md",
+                "file": "Ailil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prueba y Posible Índice.md",
+                "file": "Ailil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prueba y Posible Índice.md"
+                "file": "Ailil.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "106a7f0bd55ca99c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2023-08-01.md",
     "Prueba y Posible Índice.md",
     "Ailil.md",
+    "Untitled.canvas",
+    "2023-08-01.md",
     "Untitled",
     "Geometría",
     "Algorítmos",
